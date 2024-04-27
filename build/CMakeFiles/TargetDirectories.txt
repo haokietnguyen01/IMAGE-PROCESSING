@@ -1,0 +1,9 @@
+/Users/nguyenkiet/Documents/C++/homework_5/build/CMakeFiles/edit_cache.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/CMakeFiles/rebuild_cache.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/src/CMakeFiles/mat_serialization.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/src/CMakeFiles/main.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/src/CMakeFiles/edit_cache.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/src/CMakeFiles/rebuild_cache.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/tests/CMakeFiles/runTest.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/tests/CMakeFiles/edit_cache.dir
+/Users/nguyenkiet/Documents/C++/homework_5/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmat_serialization.a CMakeFiles/mat_serialization.dir/serialize.cpp.o CMakeFiles/mat_serialization.dir/convert_dataset.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmat_serialization.a

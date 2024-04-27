@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -I/opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/mat_serialization.dir/serialize.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/src/serialize.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/src/serialize.cpp",
+  "output": "src/CMakeFiles/mat_serialization.dir/serialize.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -I/opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/mat_serialization.dir/convert_dataset.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/src/convert_dataset.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/src/convert_dataset.cpp",
+  "output": "src/CMakeFiles/mat_serialization.dir/convert_dataset.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -isystem /opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/src/main.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -isystem /usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/runTest.dir/test_serialize.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/tests/test_serialize.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/tests/test_serialize.cpp",
+  "output": "tests/CMakeFiles/runTest.dir/test_serialize.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -isystem /usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/runTest.dir/__/src/serialize.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/src/serialize.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/src/serialize.cpp",
+  "output": "tests/CMakeFiles/runTest.dir/__/src/serialize.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -isystem /usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/runTest.dir/test_convert_dataset.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/tests/test_convert_dataset.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/tests/test_convert_dataset.cpp",
+  "output": "tests/CMakeFiles/runTest.dir/test_convert_dataset.cpp.o"
+},
+{
+  "directory": "/Users/nguyenkiet/Documents/C++/homework_5/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/nguyenkiet/Documents/C++/homework_5/include -isystem /usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.9.0_6/include/opencv4 -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/runTest.dir/__/src/convert_dataset.cpp.o -c /Users/nguyenkiet/Documents/C++/homework_5/src/convert_dataset.cpp",
+  "file": "/Users/nguyenkiet/Documents/C++/homework_5/src/convert_dataset.cpp",
+  "output": "tests/CMakeFiles/runTest.dir/__/src/convert_dataset.cpp.o"
+}
+]

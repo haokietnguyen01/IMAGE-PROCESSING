@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.29.0)
+project(hw5)
+
+set(CMAKE_CXX_STANDARD 17) #-std=c++17
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+include_directories(${CMAKE_SOURCE_DIR}/include)
+link_directories(${LIBRARY_OUTPUT_PATH})
+
+add_subdirectory(src)
+add_subdirectory(tests)
+
